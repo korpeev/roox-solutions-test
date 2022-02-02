@@ -1,0 +1,14 @@
+@import '../../styles/variables';
+
+
+.navigation {
+  display: flex;
+  flex-direction: column;
+  background-color: #BDBDBD;
+  padding: 2rem;
+  height: 100vmax;
+}
+
+.title {
+  font-weight: 400;
+}
